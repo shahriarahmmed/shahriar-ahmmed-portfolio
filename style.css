@@ -71,8 +71,8 @@ body {
 }
 .circle {
   background-color: #fb857f;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
 }
 
@@ -104,6 +104,6 @@ body {
 
 #name {
   font-family: 'Caveat', cursive;
-  font-size: 1rem;
+  font-size: 1.5 em;
  
 }
